@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+requests
+streamlit
+numpy
+opencv-python
+cmake
+dlib==19.21.1
+face-recognition
+scipy
